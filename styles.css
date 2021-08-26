@@ -1,4 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+
 body {
+    font-family: "Montserrat", sans-serif;
     background: rgb(195,34,102);
 background: linear-gradient(180deg, rgba(195,34,102,1) 0%, rgba(253,187,45,1) 33%, rgba(253,187,45,1) 66%, rgba(0,128,0,1) 96%);
 }
